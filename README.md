@@ -10,7 +10,7 @@ Voici un template de site vitrine en HTML/CSS.
 
 ## 📝 [Serveur Support](https://discord.gg/aC9RF7Kt8T)
 
-Si vous rencontrez des problèmes avec le code, rejoignez nous et demandezde l'aide.
+Si vous rencontrez des problèmes avec le code, rejoignez nous et demandez de l'aide.
 
 
 Projet imaginé et réalisé par Satrex.
